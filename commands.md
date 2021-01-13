@@ -1,5 +1,15 @@
 # Commands
 
+<span class="fs-5">
+[Docs Home](https://docs.pulseproject.io){: .btn }
+</span>
+[Website](https://pulseproject.io){: .btn .btn-outline }
+[Invite](https://pulseproject.io/invite){: .btn .btn-outline }
+[Terms](https://pulseproject.io/terms){: .btn .btn-outline }
+[Privacy](https://pulseproject.io/privacy){: .btn .btn-outline }
+
+___
+
 <div class="menu">
   <span class="selectionsBoarder">
     <h4 class="sectionsTitle">Command Categories</h4>
