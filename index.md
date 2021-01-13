@@ -1,13 +1,12 @@
 # About Pulse
 
-<span class="fs-6">
+<span class="fs-5">
 [Docs Home](https://docs.pulseproject.io){: .btn }
 </span>
-[Pulse Website](https://pulseproject.io){: .btn .btn-outline }
-[Invite Pulse](https://pulseproject.io/invite){: .btn .btn-outline }
+[Website](https://pulseproject.io){: .btn .btn-outline }
+[Invite](https://pulseproject.io/invite){: .btn .btn-outline }
 [Terms](https://pulseproject.io/terms){: .btn .btn-outline }
 [Privacy](https://pulseproject.io/privacy){: .btn .btn-outline }
-[Contact](https://pulseproject.io/contact){: .btn .btn-outline }
 
 ___
 
