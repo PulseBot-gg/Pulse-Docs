@@ -502,7 +502,6 @@ d {
 }
 
 /*@media only screen and (max-width: 1050px) {*/
-@media only screen and (max-width: 740px) {
   .menu {
     flex-direction: column;
     width: auto;
@@ -524,7 +523,7 @@ d {
   .options {
     width: auto;
   }
-}
+/*}*/
 </style>
 
 <script>
