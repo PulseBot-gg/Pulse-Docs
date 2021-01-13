@@ -1,13 +1,4 @@
-# :D
-[Pulse Home](https://pulseproject.io)
-## 
-
-
-
-
-
-
-
+# [Pulse-Home](https://pulseproject.io) [Docs-Home](https://pulseproject.io)
 
 ## Welcome to GitHub Pages
 
