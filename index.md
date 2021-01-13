@@ -8,6 +8,7 @@
 [Terms](https://pulseproject.io/terms){: .btn .btn-outline }
 [Privacy](https://pulseproject.io/privacy){: .btn .btn-outline }
 [Contact](https://pulseproject.io/contact){: .btn .btn-outline }
+
 ___
 
 ## What is Pulse?
