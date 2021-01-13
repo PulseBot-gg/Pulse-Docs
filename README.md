@@ -1,1 +1,1 @@
-# [Pulse-Home](https://pulseproject.io) ▫ [Docs-Home](https://docs.pulseproject.io/docs)
+# [Pulse-Home](https://pulseproject.io) ▫ [Docs-Home](https://pulseproject.io/docs)
