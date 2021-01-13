@@ -408,7 +408,7 @@
 
 body {
   color: #fff;
-  background-color: #38383b;
+  /*background-color: #38383b;*/
   font-family: Arial;
   font-size: 20px;
 }
@@ -501,7 +501,8 @@ d {
   font-weight: normal;
 }
 
-@media only screen and (max-width: 1050px) {
+/*@media only screen and (max-width: 1050px) {*/
+@media only screen and (max-width: 730px) {
   .menu {
     flex-direction: column;
     width: auto;
