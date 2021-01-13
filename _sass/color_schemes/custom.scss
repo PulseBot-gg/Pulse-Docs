@@ -1,14 +1,14 @@
-$body-background-color: $grey-dk-200;
-$sidebar-color: $grey-dk-300;
-$search-background-color: $grey-dk-200;
-$table-background-color: $grey-dk-100;
-$code-background-color: $grey-dk-100;
-$feedback-color: darken($sidebar-color, 3%);
+$body-background-color: $grey-dk-200 !important;
+$sidebar-color: $grey-dk-300 !important;
+$search-background-color: $grey-dk-200 !important;
+$table-background-color: $grey-dk-100 !important;
+$code-background-color: $grey-dk-100 !important;
+$feedback-color: darken($sidebar-color, 3%) !important;
 
-$body-text-color: $grey-lt-100;
-$body-heading-color: $grey-lt-300;
-$search-result-preview-color: $grey-lt-000;
-$nav-child-link-color: $grey-lt-100;
-$link-color: $grey-dk-200;
-$btn-primary-color: $grey-lt-300;
-$base-button-color: #f7f7f7;
+$body-text-color: $grey-lt-100 !important;
+$body-heading-color: $grey-lt-300 !important;
+$search-result-preview-color: $grey-lt-000 !important;
+$nav-child-link-color: $grey-lt-100 !important;
+$link-color: $grey-dk-200 !important;
+$btn-primary-color: $grey-lt-300 !important;
+$base-button-color: #f7f7f7 !important;
