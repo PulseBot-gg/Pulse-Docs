@@ -1,9 +1,9 @@
 $body-background-color: $grey-dk-300 !important;
-$sidebar-color: $grey-dk-300 !important;
+$sidebar-color: $grey-dk-300;
 $search-background-color: $grey-dk-300 !important;
 $table-background-color: $grey-dk-250 !important;
 $code-background-color: $grey-dk-200 !important;
-$feedback-color: darken($sidebar-color, 3%);
+$feedback-color: darken($sidebar-color, 3%) !important;
 
 $body-text-color: $grey-lt-100 !important;
 $body-heading-color: $grey-lt-000 !important;
