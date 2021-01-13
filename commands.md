@@ -502,7 +502,7 @@ d {
 }
 
 /*@media only screen and (max-width: 1050px) {*/
-@media only screen and (max-width: 730px) {
+@media only screen and (max-width: 740px) {
   .menu {
     flex-direction: column;
     width: auto;
