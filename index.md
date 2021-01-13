@@ -18,7 +18,6 @@ Pulse was created with 3 main intentions; a free music bot, an easy way to liste
  - Mind-blowingly fast! <b>(No Lag)</b>
  - Full access <b>completely</b> free.
  - Highest possible audio quality.
- - Extensive integration support. 
-<br>
-<br>
+ - Extensive integration support.
+ 
 The goal of this project isn’t to take away from your experience. If another bot has more to offer, by all means, use it instead, or you can make a suggestion by using the [Contact](https://pulseproject.io/contact) page. We are always open to new ideas and features!
