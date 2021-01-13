@@ -414,16 +414,19 @@ ___
 
 <style>
 
-body {
+/*body {
   color: #fff;
-  /*background-color: #38383b;*/
+  background-color: #38383b;
   font-family: Arial;
   font-size: 20px;
-}
+}*/
 
 .menu {
+  color: #fff;
   font-size: 20px;
   display: flex;
+  font-family: Arial;
+  font-size: 20px;
 }
 .sectionsTtitle {
   margin: 5px;
