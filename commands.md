@@ -2,7 +2,7 @@
 
 <div class="menu">
   <span class="selectionsBoarder">
-    <h4 class="title">Command Categories</h4>
+    <h4 class="sectionsTitle">Command Categories</h4>
     <div class="selectionsEdge">
       <div class="selections">
         <div id="all" class="selection" onClick='setSelection("all");' style="cursor: pointer;">
@@ -417,7 +417,7 @@ body {
   font-size: 20px;
   display: flex;
 }
-.title {
+.sectionsTtitle {
   margin: 5px;
 }
 .selectionsBoarder {
@@ -428,7 +428,7 @@ body {
   height: fit-content;
   padding: 15px;
   border-radius: 15px;
-  background-color: #555;
+  background-color: #44434d;
   text-align: center;
   box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
 }
@@ -467,7 +467,7 @@ body {
   margin: 5px 0px;
   border-radius: 10px;
   color: #fff;
-  background-color: #222;
+  background-color: #44434d;
   box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
   transition: ease-in-out 0.2s;
 }
