@@ -36,7 +36,7 @@ Pulse was created with 3 main intentions; a free music bot, an easy way to liste
 
  - User friendly
  - Mind-blowingly fast! <b>(No Lag)</b>
- - Full access <b>completely</b> free.
+ - <b>Completely</b> free full bot access.
  - Highest possible audio quality.
  - Extensive integration support.
  
