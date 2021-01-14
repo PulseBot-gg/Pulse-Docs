@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: About Pulse
 nav_order: 1
 permalink: /
 ---
