@@ -12,7 +12,7 @@ nav_order: 3
 <span class="fs-4">[Terms](https://pulseproject.io/terms){: .btn .btn-outline }</span>
 <span class="fs-4">[Privacy](https://pulseproject.io/privacy){: .btn .btn-outline }</span>
 
-___
+---
 
 ## Table of contents
 {: .no_toc .text-delta }
