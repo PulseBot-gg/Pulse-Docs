@@ -1,2 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 color_scheme: custom
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2020-2021 [PulseProject](https://pulseproject.io).
