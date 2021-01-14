@@ -16,4 +16,12 @@ permalink: /Integrations
 
 ___
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 More info here.
