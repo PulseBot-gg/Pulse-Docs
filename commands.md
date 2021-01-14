@@ -1,3 +1,9 @@
+---
+layout: default
+title: Commands
+nav_order: 3
+---
+
 # Commands
 
 <span class="fs-5">[Docs Home](https://docs.pulseproject.io){: .btn }</span>
