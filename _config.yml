@@ -1,14 +1,2 @@
 remote_theme: pmarsceill/just-the-docs
 color_scheme: custom
-
-collections:
-  Integrations:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    Integrations:
-      name: "Integrations"
-      nav_exclude: false
-      search_exclude: false
