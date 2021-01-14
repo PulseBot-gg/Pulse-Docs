@@ -15,6 +15,14 @@ permalink: /
 
 ___
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ## What is Pulse?
 
 Pulse is a [Discord](https://discord.com/) Music Bot, used to play music in the Voice Channels of a server. Pulse can also be used as a general media search engine, lyrics search engine, or media discovery platform.
