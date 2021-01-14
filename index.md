@@ -7,7 +7,7 @@ permalink: /
 
 # About Pulse
 
-<span class="fs-5">[Docs Home](https://docs.pulseproject.io){: .btn }</span>
+<span class="fs-5">[Docs Home](https://docs.pulseproject.io){: .btn }</span><br>
 <span class="fs-4">[Website](https://pulseproject.io){: .btn .btn-outline }</span>
 <span class="fs-4">[Invite](https://pulseproject.io/invite){: .btn .btn-outline }</span>
 <span class="fs-4">[Terms](https://pulseproject.io/terms){: .btn .btn-outline }</span>
