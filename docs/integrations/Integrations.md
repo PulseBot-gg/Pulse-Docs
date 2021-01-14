@@ -1,4 +1,12 @@
-# Test
+---
+layout: default
+title: Integrations
+nav_order: 2
+has_children: true
+permalink: /Integrations
+---
+
+# Integrations!
 
 <span class="fs-5">[Docs Home](https://docs.pulseproject.io){: .btn }</span><br><br>
 <span class="fs-4">[Website](https://pulseproject.io){: .btn .btn-outline }</span>
@@ -7,3 +15,5 @@
 <span class="fs-4">[Privacy](https://pulseproject.io/privacy){: .btn .btn-outline }</span>
 
 ___
+
+More info here.
