@@ -235,7 +235,6 @@ nav_order: 3
       <div class="optioncontent">
         Returns a formatted message of the next tracks in the queue. There may be multiple pages.
         <br>
-        <br>Aliases: <a>Playlist, Queue, List, Pl</a>
         <br>Applicable Wrapper Commands: <a>Que, Q</a>
       </div>
     </div>
