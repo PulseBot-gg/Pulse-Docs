@@ -306,6 +306,17 @@ nav_order: 3
         <br>Aliases: <a>Ff</a>
       </div>
     </div>
+    <div class="option player">
+      <div class="optiontitle">
+        <b>Shuffle</b>
+      </div>
+      <div class="optioncontent">
+        Shuffles the future queue.
+        <br>
+        <br><d>This command can be DJ restricted.</d>
+        <br>Aliases: <a>Shuf, Mix, Sh</a>
+      </div>
+    </div>
     <div class="option queue">
       <div class="optiontitle">
         <b>Clear</b>
@@ -369,17 +380,6 @@ nav_order: 3
         <br>
         <br><d>This command can be DJ restricted.</d>
         <br>Aliases: <a>Loop, L</a>
-      </div>
-    </div>
-    <div class="option queue">
-      <div class="optiontitle">
-        <b>Shuffle</b>
-      </div>
-      <div class="optioncontent">
-        Shuffles the future queue.
-        <br>
-        <br><d>This command can be DJ restricted.</d>
-        <br>Aliases: <a>Shuf, Mix, Sh</a>
       </div>
     </div>
     <div class="option queue">
