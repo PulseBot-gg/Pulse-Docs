@@ -305,18 +305,18 @@ nav_order: 3
         <br><d>This command can be DJ restricted.</d>
         <br>Aliases: <a>Ff</a>
       </div>
-    </div>
+    </div> 
     <div class="option player">
       <div class="optiontitle">
-        <b>Shuffle</b>
+        <b>Replay</b>
       </div>
       <div class="optioncontent">
-        Shuffles the future queue.
+        Restarts the currently playing track.
         <br>
         <br><d>This command can be DJ restricted.</d>
-        <br>Aliases: <a>Shuf, Mix, Sh</a>
+        <br>Aliases: <a>Restart, Re</a>
       </div>
-    </div>
+    </div> 
     <div class="option queue">
       <div class="optiontitle">
         <b>Clear</b>
@@ -359,18 +359,7 @@ nav_order: 3
         <br><d>This command can be DJ restricted.</d>
         <br>Aliases: <a>Prev, Last, Back, Pr</a>
       </div>
-    </div> 
-    <div class="option queue">
-      <div class="optiontitle">
-        <b>Replay</b>
-      </div>
-      <div class="optioncontent">
-        Restarts the currently playing track.
-        <br>
-        <br><d>This command can be DJ restricted.</d>
-        <br>Aliases: <a>Restart, Re</a>
-      </div>
-    </div> 
+    </div>
     <div class="option queue">
       <div class="optiontitle">
         <b>Repeat</b>
@@ -380,6 +369,17 @@ nav_order: 3
         <br>
         <br><d>This command can be DJ restricted.</d>
         <br>Aliases: <a>Loop, L</a>
+      </div>
+    </div>
+    <div class="option queue">
+      <div class="optiontitle">
+        <b>Shuffle</b>
+      </div>
+      <div class="optioncontent">
+        Shuffles the future queue.
+        <br>
+        <br><d>This command can be DJ restricted.</d>
+        <br>Aliases: <a>Shuf, Mix, Sh</a>
       </div>
     </div>
     <div class="option queue">
