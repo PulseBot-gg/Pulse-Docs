@@ -32,7 +32,7 @@ nav_order: 2
         <div id="info" class="selection" onClick='setSelection("info");' style="cursor: pointer;">
           Info
         </div>
-        <div id="other" class="selection" onClick='setSelection("connecting");' style="cursor: pointer;">
+        <div id="connecting" class="selection" onClick='setSelection("connecting");' style="cursor: pointer;">
           Connecting
         </div>
         <div id="requesting" class="selection" onClick='setSelection("requesting");' style="cursor: pointer;">
