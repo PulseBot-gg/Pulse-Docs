@@ -29,7 +29,7 @@ nav_order: 2
 </div>
 
 <u><b>Description</b></u>
-Koodos is an SMS based platform, where you can share and discover music through emojis! ✨ Top curations can get featured as a song of the day. These songs are what you can play through Pulse! You can check out these songs with the commands listed below (d=day, w=week, m=month:
+<br>Koodos is an SMS based platform, where you can share and discover music through emojis! ✨ Top curations can get featured as a song of the day. These songs are what you can play through Pulse! You can check out these songs with the commands listed below (d=day, w=week, m=month:
 <br>
 <br>Example 1: `?sotd`
 <br>Example 2: `?sotw`
