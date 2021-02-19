@@ -16,14 +16,14 @@ nav_order: 2
 
 ---
 
-<a target="_blank" href="https://koodos.com" style="display: inline-flex;">
+<div style="display: inline-flex;">
   <div style="margin: 15px;">
     <img class="sourceimage" src="https://storage.googleapis.com/koodos-web/kody_logo.png" alt="" style="width:75px;height:75px;border: none;border-radius: 75px;margin: auto;">
   </div>
   <div style="margin: 15px;">
-    Visit Website
+    <a target="_blank" href="https://koodos.com">Visit Website</a>
   </div>
-</a>
+</div>
 <br>
 <br>
 <div style="display: inline-flex;">
