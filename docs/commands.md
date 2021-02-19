@@ -23,23 +23,20 @@ nav_order: 2
         <div id="all" class="selection" onClick='setSelection("all");' style="cursor: pointer;">
           All
         </div>
-        <div id="settings" class="selection" onClick='setSelection("settings");' style="cursor: pointer;">
-          Settings
-        </div>
         <div id="other" class="selection" onClick='setSelection("other");' style="cursor: pointer;">
           Misc.
-        </div>
-        <div id="sotd" class="selection" onClick='setSelection("sotd");' style="cursor: pointer;">
-          Song Of The Day
         </div>
         <div id="wrapper" class="selection" onClick='setSelection("wrapper");' style="cursor: pointer;">
           Wrappers
         </div>
-        <div id="requesting" class="selection" onClick='setSelection("requesting");' style="cursor: pointer;">
-          Requests
-        </div>
         <div id="info" class="selection" onClick='setSelection("info");' style="cursor: pointer;">
           Info
+        </div>
+        <div id="other" class="selection" onClick='setSelection("connecting");' style="cursor: pointer;">
+          Connecting
+        </div>
+        <div id="requesting" class="selection" onClick='setSelection("requesting");' style="cursor: pointer;">
+          Requesting
         </div>
         <div id="player" class="selection" onClick='setSelection("player");' style="cursor: pointer;">
           Player
@@ -52,7 +49,15 @@ nav_order: 2
   </span>
 
   <div class="options">
-    <div class="option settings">
+    <div class="option other">
+      <div class="optiontitle">
+        <b>Help</b>
+      </div>
+      <div class="optioncontent">
+        Returns a help message with useful links and suggestions.
+      </div>
+    </div>
+    <div class="option other">
       <div class="optiontitle">
         <b>Config</b> <a>(Listing#) (Value)</a>
       </div>
@@ -65,57 +70,6 @@ nav_order: 2
     </div>
     <div class="option other">
       <div class="optiontitle">
-        <b>Help</b>
-      </div>
-      <div class="optioncontent">
-        Returns a help message with useful links and suggestions.
-      </div>
-    </div>
-    <div class="option other">
-      <div class="optiontitle">
-        <b>Status</b>
-      </div>
-      <div class="optioncontent">
-        Returns a timings report of the bot’s connection to Discord services, as well as some useful suggestions and links.
-        <br>
-        <br>Aliases: <a>Connection, Latency, Stat, Ping, Lag</a>
-      </div>
-    </div>
-    <div class="option other">
-      <div class="optiontitle">
-        <b>Stop</b>
-      </div>
-      <div class="optioncontent">
-        Stops currently playing media, and clears the previous and future queues.
-        <br>
-        <br><d>This command can be DJ restricted.</d>
-        <br>Aliases: <a>Stp, St</a>
-      </div>
-    </div>
-    <div class="option other">
-      <div class="optiontitle">
-        <b>Connect</b>
-      </div>
-      <div class="optioncontent">
-        Connects the bot to your channel. The bot will not leave others if DJ restriction is enabled, unless the requester is a DJ.
-        <br>
-        <br><d>This command can be DJ restricted.</d>
-        <br>Aliases: <a>Join</a>
-      </div>
-    </div>
-    <div class="option other">
-      <div class="optiontitle">
-        <b>Disconnect</b>
-      </div>
-      <div class="optioncontent">
-        Disconnects the bot from your server. The bot will not leave others if DJ restriction is enabled, unless the requester is a DJ.
-        <br>
-        <br><d>This command can be DJ restricted.</d>
-        <br>Aliases: <a>Leave, Quit, Dis, Dc</a>
-      </div>
-    </div>
-    <div class="option other">
-      <div class="optiontitle">
         <b>Lyrics</b> <a>(Search)</a>
       </div>
       <div class="optioncontent">
@@ -124,7 +78,7 @@ nav_order: 2
         <br>Aliases: <a>Lyric, Lyr, Ly</a>
       </div>
     </div>
-    <div class="option sotd">
+    <div class="option other">
       <div class="optiontitle">
         <b>Sotd (Date)</b>
       </div>
@@ -134,7 +88,7 @@ nav_order: 2
         <br><d>To view more information about the SOTD feature, the Date or Time Frame argument, or Koodos in general, check out the Koodos section on the Integrations page!</d>
       </div>
     </div>
-    <div class="option sotd">
+    <div class="option other">
       <div class="optiontitle">
         <b>Sotw (Date)</b>
       </div>
@@ -144,7 +98,7 @@ nav_order: 2
         <br><d>To view more information about the SOTD feature, the Date or Time Frame argument, or Koodos in general, check out the Koodos section on the Integrations page!</d>
       </div>
     </div>
-    <div class="option sotd">
+    <div class="option other">
       <div class="optiontitle">
         <b>Sotm (Date)</b>
       </div>
@@ -185,6 +139,58 @@ nav_order: 2
         <br>Executes: <a>Queue, Enque</a>
       </div>
     </div>
+    <div class="option info">
+      <div class="optiontitle">
+        <b>Status</b>
+      </div>
+      <div class="optioncontent">
+        Returns a timings report of the bot’s connection to Discord services, as well as some useful suggestions and links.
+        <br>
+        <br>Aliases: <a>Connection, Latency, Stat, Ping, Lag</a>
+      </div>
+    </div>
+    <div class="option info">
+      <div class="optiontitle">
+        <b>NowPlaying</b>
+      </div>
+      <div class="optioncontent">
+        Returns a formatted and detailed message of the currently playing track and current player status.
+        <br>
+        <br>Aliases: <a>Timestamp, Stamp, Song, Info, Time, Np</a>
+      </div>
+    </div>
+    <div class="option info">
+      <div class="optiontitle">
+        <b>Queue</b> <a>(Page#)</a>
+      </div>
+      <div class="optioncontent">
+        Returns a formatted message of the next tracks in the queue. There may be multiple pages.
+        <br>
+        <br>Applicable Wrapper Commands: <a>Que, Q</a>
+      </div>
+    </div>
+    <div class="option connecting">
+      <div class="optiontitle">
+        <b>Connect</b>
+      </div>
+      <div class="optioncontent">
+        Connects the bot to your channel. The bot will not leave others if DJ restriction is enabled, unless the requester is a DJ.
+        <br>
+        <br><d>This command can be DJ restricted.</d>
+        <br>Aliases: <a>Join</a>
+      </div>
+    </div>
+    <div class="option connecting">
+      <div class="optiontitle">
+        <b>Disconnect</b>
+      </div>
+      <div class="optioncontent">
+        Disconnects the bot from your server. The bot will not leave others if DJ restriction is enabled, unless the requester is a DJ.
+        <br>
+        <br><d>This command can be DJ restricted.</d>
+        <br>Aliases: <a>Leave, Quit, Dis, Dc</a>
+      </div>
+    </div>
     <div class="option requesting">
       <div class="optiontitle">
         <b>Enque</b> <a>(Media)</a>
@@ -218,26 +224,6 @@ nav_order: 2
         <br>Aliases: <a>EnqueNow, Enn, Eqn, Pn</a>
       </div>
     </div>
-    <div class="option info">
-      <div class="optiontitle">
-        <b>NowPlaying</b>
-      </div>
-      <div class="optioncontent">
-        Returns a formatted and detailed message of the currently playing track and current player status.
-        <br>
-        <br>Aliases: <a>Timestamp, Stamp, Song, Info, Time, Np</a>
-      </div>
-    </div>
-    <div class="option info">
-      <div class="optiontitle">
-        <b>Queue</b> <a>(Page#)</a>
-      </div>
-      <div class="optioncontent">
-        Returns a formatted message of the next tracks in the queue. There may be multiple pages.
-        <br>
-        <br>Applicable Wrapper Commands: <a>Que, Q</a>
-      </div>
-    </div>
     <div class="option player">
       <div class="optiontitle">
         <b>Pause</b>
@@ -264,6 +250,17 @@ nav_order: 2
     </div>
     <div class="option player">
       <div class="optiontitle">
+        <b>Stop</b>
+      </div>
+      <div class="optioncontent">
+        Stops currently playing media, and clears the previous and future queues.
+        <br>
+        <br><d>This command can be DJ restricted.</d>
+        <br>Aliases: <a>Stp, St</a>
+      </div>
+    </div>
+    <div class="option player">
+      <div class="optiontitle">
         <b>Volume</b> <a>(Level)</a>
       </div>
       <div class="optioncontent">
@@ -271,6 +268,17 @@ nav_order: 2
         <br>
         <br><d>This command can be DJ restricted.</d>
         <br>Aliases: <a>Vol, V</a>
+      </div>
+    </div>
+    <div class="option player">
+      <div class="optiontitle">
+        <b>Replay</b>
+      </div>
+      <div class="optioncontent">
+        Restarts the currently playing track.
+        <br>
+        <br><d>This command can be DJ restricted.</d>
+        <br>Aliases: <a>Restart, Re</a>
       </div>
     </div>
     <div class="option player">
@@ -286,6 +294,17 @@ nav_order: 2
     </div>
     <div class="option player">
       <div class="optiontitle">
+        <b>Fastforward</b> <a>(Time)</a>
+      </div>
+      <div class="optioncontent">
+        Fastforwards the song by 10 seconds, or by the time specified.
+        <br>
+        <br><d>This command can be DJ restricted.</d>
+        <br>Aliases: <a>Ff</a>
+      </div>
+    </div>
+    <div class="option player">
+      <div class="optiontitle">
         <b>Rewind</b> <a>(Time)</a>
       </div>
       <div class="optioncontent">
@@ -295,28 +314,6 @@ nav_order: 2
         <br>Aliases: <a>Rw</a>
       </div>
     </div>
-    <div class="option player">
-      <div class="optiontitle">
-        <b>Fastforward</b> <a>(Time)</a>
-      </div>
-      <div class="optioncontent">
-        Fastforwards the song by 10 seconds, or by the time specified.
-        <br>
-        <br><d>This command can be DJ restricted.</d>
-        <br>Aliases: <a>Ff</a>
-      </div>
-    </div> 
-    <div class="option player">
-      <div class="optiontitle">
-        <b>Replay</b>
-      </div>
-      <div class="optioncontent">
-        Restarts the currently playing track.
-        <br>
-        <br><d>This command can be DJ restricted.</d>
-        <br>Aliases: <a>Restart, Re</a>
-      </div>
-    </div> 
     <div class="option queue">
       <div class="optiontitle">
         <b>Clear</b>
@@ -326,16 +323,6 @@ nav_order: 2
         <br>
         <br><d>This command can be DJ restricted.</d>
         <br>Aliases: <a>Empty, Cl</a>
-      </div>
-    </div> 
-    <div class="option queue">
-      <div class="optiontitle">
-        <b>Skip</b>
-      </div>
-      <div class="optioncontent">
-        Adds a vote to skip to the next track.
-        <br>
-        <br>Aliases: <a>Next, N</a>
       </div>
     </div>
     <div class="option queue">
@@ -347,6 +334,16 @@ nav_order: 2
         <br>
         <br><d>This command can be DJ restricted.</d>
         <br>Aliases: <a>ForceNext, Fs, Fn</a>
+      </div>
+    </div>
+    <div class="option queue">
+      <div class="optiontitle">
+        <b>Skip</b>
+      </div>
+      <div class="optioncontent">
+        Adds a vote to skip to the next track.
+        <br>
+        <br>Aliases: <a>Next, N</a>
       </div>
     </div>
     <div class="option queue">
@@ -582,7 +579,7 @@ function setSelection(selection) {
     sels[i].classList.remove("activeSelection");
   }
   document.getElementById(selection).classList.add("activeSelection");
-  var toShow = ["settings", "other", "sotd", "wrapper", "requesting", "info", "player", "queue"];
+  var toShow = ["other", "info", "connecting", "requesting",  "player", "queue", "wrapper"];
   if (selection !== "all") {
     toShow = [selection];
   }
