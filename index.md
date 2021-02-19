@@ -66,3 +66,19 @@ Unfortunately, this is the hardest and most crucial part, but don't stress becau
  - <u><b>Run the help command, and read everything!</b></u> <br>Pay special attention to the links, configuration command, and server command prefix.
  - <u><b>Run the config command, and configure.</b></u> <br>Here is where you can control how Pulse interacts with the server. You can view more information on each configuration value by running the command for that value. You can set the bot's prefix, text-channel, DJ-Role restrictions, and more!
  - <u><b>Enjoy!**</b></u> <br>The bot is really straight-forward! Pulse has a really nice [commands](https://docs.pulseproject.io/docs/commands.html) UI for finding what you need fast, and if you want to know more about Pulse's integrations, check out the [integrations](https://docs.pulseproject.io/Integrations) documentation.
+
+<br>
+
+## Getting Started
+
+<u><b>DJ Restriction & The DJ Role</b></u>
+
+When the DJ role restriction is enabled, the bot will limit experience-altering interactions to only those with a role called "DJ". Additionally, listeners will need to have the majority vote in their channel to skip tracks. There are no special permissions or colors required to make the "DJ" role, just make a role with empty permissions, and call it "DJ".
+
+<u><b>Playing Media</b></u>
+
+Getting Pulse to play you audio is as simple as running the enque command, followed by the URL or a search request!
+
+<u><b>Final Notes</b></u>
+
+The [commands] page lists all availible commands and their usages if you ever need them. Additionally, you can check out the [integrations] page to view more on what media sources are supported, what media types are supported for each integration, and how to use the integration. If you have a question, be sure to visit the [faq], or [contact] us.
