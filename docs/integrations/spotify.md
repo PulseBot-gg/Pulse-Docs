@@ -2,7 +2,7 @@
 layout: default
 title: Spotify
 parent: Integrations
-nav_order: 4
+nav_order: 5
 ---
 
 <span class="fs-5">[Docs Home](https://docs.pulseproject.io){: .btn }</span><br><br>
