@@ -5,9 +5,6 @@ parent: Integrations
 nav_order: 3
 ---
 
-# iHeartRadio
-{: .no_toc }
-
 <span class="fs-5">[Docs Home](https://docs.pulseproject.io){: .btn }</span><br><br>
 <span class="fs-4">[Website](https://pulseproject.io){: .btn .btn-outline }</span>
 <span class="fs-4">[Invite](https://pulseproject.io/invite){: .btn .btn-outline }</span>
@@ -15,6 +12,9 @@ nav_order: 3
 <span class="fs-4">[Privacy](https://pulseproject.io/privacy){: .btn .btn-outline }</span>
 
 ---
+
+# iHeartRadio
+{: .no_toc }
 
 <div style="display: inline-flex;align-items: center;justify-content: center;">
   <div style="margin: 15px;">
