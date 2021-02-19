@@ -60,7 +60,7 @@ Adding Pulse is completely hassle and invasive free! You can get an invite link 
 If you are visiting this page because you had problems installing or using Pulse, simply kick the bot from the server and follow the instructions below.
 
 Unfortunately, this is the hardest and most crucial part, but don't stress because its not hard!
- - <u>**Get the help command for the bot.**</u> <br>You can find the prefix for the bot you want to use by checking the [invite](https://pulseproject.io/invite) page, or by looking at the bot's status.
- - <u>**Run the help command, and read everything!**</u> <br>Pay special attention to the links, configuration command, and server command prefix.
- - <u>**Run the config command, and configure.**</u> <br>Here is where you can control how Pulse interacts with the server. You can view more information on each configuration value by running the command for that value. You can set the bot's prefix, text-channel, DJ-Role restrictions, and more!
- - <u>**Enjoy!**</u> <br>The bot is really straight-forward! Pulse has a really nice [commands](https://docs.pulseproject.io/docs/commands.html) UI for finding what you need fast, and if you want to know more about Pulse's integrations, check out the [integrations](https://docs.pulseproject.io/Integrations) documentation.
+ - <u><b>Get the help command for the bot.</b></u> <br>You can find the prefix for the bot you want to use by checking the [invite](https://pulseproject.io/invite) page, or by looking at the bot's status.
+ - <u><b>Run the help command, and read everything!</b></u> <br>Pay special attention to the links, configuration command, and server command prefix.
+ - <u><b>Run the config command, and configure.</b></u> <br>Here is where you can control how Pulse interacts with the server. You can view more information on each configuration value by running the command for that value. You can set the bot's prefix, text-channel, DJ-Role restrictions, and more!
+ - <u><b>Enjoy!**</b></u> <br>The bot is really straight-forward! Pulse has a really nice [commands](https://docs.pulseproject.io/docs/commands.html) UI for finding what you need fast, and if you want to know more about Pulse's integrations, check out the [integrations](https://docs.pulseproject.io/Integrations) documentation.
