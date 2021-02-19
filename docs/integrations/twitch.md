@@ -35,4 +35,4 @@ nav_order: 8
 <u><b>Description</b></u>
 <br>To play any of the supported media types, just copy the URL or share link URL of the media, and use it with any of the enque commands.
 <br>
-<br>Example 1: `?play ?play https://www.twitch.tv/pewdiepie_hyper`
+<br>Example 1: `?play https://www.twitch.tv/pewdiepie_hyper`
