@@ -17,11 +17,11 @@ nav_order: 2
 ---
 
 <div style="display: inline-flex;">
-  <div>
+  <div style="margin: 15px;">
     <u><b>Supported Media Sources</b></u>
     <br>☑ YouTube
   </div>
-  <div>
+  <div style="margin: 15px;">
     <u><b>Supported Media Types</b></u>
     <br>☑ Videos
     <br>☑ Livestreams
