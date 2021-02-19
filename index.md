@@ -38,11 +38,12 @@ Pulse was created with 3 main intentions; a free music bot, an easy way to liste
 
 ## Why Pulse?
 
- - User friendly
+ - User friendly! <3
  - Mind-blowingly fast! <b>(No Lag)</b>
- - <b>Completely</b> free full bot access.
+ - <b>Free</b> full bot access.
  - Highest possible audio quality.
  - Extensive integration support.
+ - Fully feature packed!
  
 The goal of this project isn’t to take away from your experience. If another bot has more to offer, by all means, use it instead, or you can make a suggestion by using the [Contact](https://pulseproject.io/contact) page. We are always open to new ideas and features!
 
@@ -59,7 +60,7 @@ Adding Pulse is completely hassle and invasive free! You can get an invite link 
 If you are visiting this page because you had problems installing or using Pulse, simply kick the bot from the server and follow the instructions below.
 
 Unfortunately, this is the hardest and most crucial part, but don't stress because its not hard!
- - **Get the help command for the bot.** <br>You can find the prefix for the bot you want to use by checking the [invite](https://pulseproject.io/invite) page, or by looking at the bot's status.
- - **Run the help command, and read everything!** <br>Pay special attention to the links, configuration command, and server command prefix.
- - **Run the config command, and configure.** <br>Here is where you can control how Pulse interacts with the server. You can view more information on each configuration value by running the command for that value. You can set the bot's prefix, text-channel, DJ-Role restrictions, and more!
- - **Enjoy!** <br>The bot is really straight-forward! Pulse has a really nice [commands](https://docs.pulseproject.io/docs/commands.html) UI for finding what you need fast, and if you want to know more about Pulse's integrations, check out the [integrations](https://docs.pulseproject.io/Integrations) documentation.
+ - __**Get the help command for the bot.**__ <br>You can find the prefix for the bot you want to use by checking the [invite](https://pulseproject.io/invite) page, or by looking at the bot's status.
+ - __**Run the help command, and read everything!**__ <br>Pay special attention to the links, configuration command, and server command prefix.
+ - __**Run the config command, and configure.**__ <br>Here is where you can control how Pulse interacts with the server. You can view more information on each configuration value by running the command for that value. You can set the bot's prefix, text-channel, DJ-Role restrictions, and more!
+ - __**Enjoy!**__ <br>The bot is really straight-forward! Pulse has a really nice [commands](https://docs.pulseproject.io/docs/commands.html) UI for finding what you need fast, and if you want to know more about Pulse's integrations, check out the [integrations](https://docs.pulseproject.io/Integrations) documentation.
