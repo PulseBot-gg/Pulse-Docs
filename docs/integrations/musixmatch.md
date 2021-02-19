@@ -16,16 +16,14 @@ nav_order: 1
 
 ---
 
-<div style="display: inline-flex;">
-  <a target="_blank" href="https://www.musixmatch.com/">
-    <div style="margin: 15px;">
-      <img class="sourceimage" src="https://images-na.ssl-images-amazon.com/images/I/41L5tHfpV0L.png" alt="" style="width:75px;height:75px;border: none;border-radius: 75px;margin: auto;">
-    </div>
-    <div style="margin: 15px;">
-      Visit Website
-    </div>
-  </a>
-</div>
+<a target="_blank" href="https://www.musixmatch.com/" style="display: inline-flex;">
+  <div style="margin: 15px;">
+    <img class="sourceimage" src="https://images-na.ssl-images-amazon.com/images/I/41L5tHfpV0L.png" alt="" style="width:75px;height:75px;border: none;border-radius: 75px;margin: auto;">
+  </div>
+  <div style="margin: 15px;">
+    Visit Website
+  </div>
+</a>
 <br>
 <br>
 <div style="display: inline-flex;">
