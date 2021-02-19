@@ -71,6 +71,8 @@ Unfortunately, this is the hardest and most crucial part, but don't stress becau
 
 ## Getting Started
 
+<br>
+
 <u><b>DJ Restriction & The DJ Role</b></u>
 
 When the DJ role restriction is enabled, the bot will limit experience-altering interactions to only those with a role called "DJ". Additionally, listeners will need to have the majority vote in their channel to skip tracks. There are no special permissions or colors required to make the "DJ" role, just make a role with empty permissions, and call it "DJ".
