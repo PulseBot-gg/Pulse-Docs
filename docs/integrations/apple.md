@@ -3,6 +3,7 @@ layout: default
 title: Apple Music
 parent: Integrations
 nav_order: 4
+permalink: /integrations/apple
 ---
 
 <span class="fs-5">[Docs Home](https://docs.pulseproject.io){: .btn }</span><br><br>
