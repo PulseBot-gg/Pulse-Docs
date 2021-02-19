@@ -19,7 +19,7 @@ nav_order: 2
 <div style="display: inline-flex;">
   <a target="_blank" href="https://koodos.com">
     <div style="margin: 15px;">
-      <img class="sourceimage" src="https://storage.googleapis.com/koodos-web/kody_logo.png" alt="" style="width:75px;height:75px;">
+      <img class="sourceimage" src="https://storage.googleapis.com/koodos-web/kody_logo.png" alt="" style="width:75px;height:75px;border: none;border-radius: 75px;margin: auto;">
     </div>
     <div style="margin: 15px;">
       Visit Website
