@@ -16,7 +16,7 @@ nav_order: 2
 
 ---
 
-<div style="display: inline-flex;">
+<div style="display: inline-flex;align-items: center;justify-content: center;">
   <div style="margin: 15px;">
     <img class="sourceimage" src="https://storage.googleapis.com/koodos-web/kody_logo.png" alt="" style="width:75px;height:75px;border: none;border-radius: 75px;margin: auto;">
   </div>
