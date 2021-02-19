@@ -409,7 +409,6 @@ permalink: /Integrations
 body {
 display: block;
   color: #fff;
-  background-color: #38383b;
   font-family: Arial;
   font-size: 20px;
   width: 100%;
