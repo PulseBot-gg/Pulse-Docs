@@ -18,22 +18,21 @@ nav_order: 3
 
 <div style="display: inline-flex;align-items: center;justify-content: center;">
   <div style="margin: 15px;">
-    <img class="sourceimage" src="https://images-na.ssl-images-amazon.com/images/I/41L5tHfpV0L.png" alt="" style="width:75px;height:75px;border: none;border-radius: 75px;margin: auto;">
+    <img class="sourceimage" src="https://img.talkandroid.com/uploads/2015/05/iheartradio-logo.png" alt="" style="width:75px;height:75px;border: none;border-radius: 75px;margin: auto;">
   </div>
   <div style="margin: 15px;">
-    <a target="_blank" href="https://www.musixmatch.com/">Visit Website</a>
+    <a target="_blank" href="https://www.iheart.com">Visit Website</a>
   </div>
 </div>
 <br>
 <div style="display: inline-flex;">
   <div style="margin: 15px;">
-    <u><b>Features</b></u>
-    <br>☑ Lyric Searchup
+    <u><b>Supported Media Types</b></u>
+    <br>☑ Live Radio
   </div>
 </div>
 
 <u><b>Description</b></u>
-<br>MusicMatch is a 3rd-Party service that Pulse uses to search for lyrics. Pulse can search for the current track's lyrics, or it can search a user's request.
+<br>The current iHeartRadio implementation only supports Live radio stations for the time being. To play a station from iHeartRadio, you need to navigate to the radion station and copy the URL, or the share link URL. The format if the radio station should have "/live" followed by the id "/hits-973-5906/" as shown in the example below. If your URL doesn't look like this, you have the wrong URL.
 <br>
-<br>Example 1: `?lyrics`
-<br>Example 2: `?lyrics A Song`
+<br>Example 1: `?play https://www.iheart.com/live/hits-973-5906/`
