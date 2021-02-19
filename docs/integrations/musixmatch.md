@@ -16,4 +16,27 @@ nav_order: 1
 
 ---
 
-MusixMatch!
+<div style="display: inline-flex;">
+  <a target="_blank" href="https://www.musixmatch.com/">
+    <div style="margin: 15px;">
+      <img class="sourceimage" src="https://images-na.ssl-images-amazon.com/images/I/41L5tHfpV0L.png" alt="" style="width:75px;height:75px;">
+    </div>
+    <div style="margin: 15px;">
+      Visit Website
+    </div>
+  </a>
+</div>
+<br>
+<br>
+<div style="display: inline-flex;">
+  <div style="margin: 15px;">
+    <u><b>Features</b></u>
+    <br>☑ Lyric Searchup
+  </div>
+</div>
+
+<u><b>Description</b></u>
+<br>MusicMatch is a 3rd-Party service that Pulse uses to search for lyrics. Pulse can search for the current track's lyrics, or it can search a user's request.
+<br>
+<br>Example 1: `?lyrics`
+<br>Example 2: `?lyrics A Song`
