@@ -2,7 +2,7 @@
 layout: default
 title: Koodos
 parent: Integrations
-nav_order: 1
+nav_order: 2
 ---
 
 # Koodos
