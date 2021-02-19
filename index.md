@@ -28,9 +28,13 @@ permalink: /
 
 Pulse is a [Discord](https://discord.com/) Music Bot, used to play music in the Voice Channels of a server. Pulse can also be used as a general media search engine, lyrics search engine, or media discovery platform.
 
+<br>
+
 ## Our Goal.
 
 Pulse was created with 3 main intentions; a free music bot, an easy way to listen with friends, and a bot with all the latest features. Today, the project has become that, and much more. Using the most popular media sources, Pulse is setting a new standard for music bots.
+
+<br>
 
 ## Why Pulse?
 
@@ -42,9 +46,13 @@ Pulse was created with 3 main intentions; a free music bot, an easy way to liste
  
 The goal of this project isn’t to take away from your experience. If another bot has more to offer, by all means, use it instead, or you can make a suggestion by using the [Contact](https://pulseproject.io/contact) page. We are always open to new ideas and features!
 
+<br>
+
 ## Adding Pulse
 
 Adding Pulse is completely hassle and invasive free! You can get an invite link by vising the [invite](https://pulseproject.io/invite) page, and clicking the button for the bot you want! If you are having problems getting Pulse to work properly, or if you just want to be safe, use the Administrator invite!
+
+<br>
 
 ## Setup
 
