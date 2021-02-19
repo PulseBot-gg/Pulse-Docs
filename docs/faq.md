@@ -53,13 +53,13 @@ permalink: /faq
 
 ## What permissions does Pulse use, and why?
 
- - <u><b>Read Messages</u></b> -> To receive commands in a text channel.
- - <u><b>Send messages</u></b> -> To send messages.
- - <u><b>Manage Messages</u></b> -> Embed suppression and user-command management.
- - <u><b>Embed Links</u></b> -> Formatted embed messages.
- - <u><b>Read Message History</u></b> -> Message management.
- - <u><b>Connect</u></b> -> To connect to the voice channel.
- - <u><b>Speak</u></b> -> To play music in the channels.
+ - <u><b>Read Messages</b></u> -> To receive commands in a text channel.
+ - <u><b>Send messages</b></u> -> To send messages.
+ - <u><b>Manage Messages</b></u> -> Embed suppression and user-command management.
+ - <u><b>Embed Links</b></u> -> Formatted embed messages.
+ - <u><b>Read Message History</b></u> -> Message management.
+ - <u><b>Connect</b></u> -> To connect to the voice channel.
+ - <u><b>Speak</b></u> -> To play music in the channels.
 
 <br>
 
