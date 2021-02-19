@@ -3,7 +3,7 @@ layout: default
 title: Integrations
 nav_order: 3
 has_children: true
-permalink: /Integrations
+permalink: /integrations
 ---
 
 <span class="fs-5">[Docs Home](https://docs.pulseproject.io){: .btn }</span><br><br>
