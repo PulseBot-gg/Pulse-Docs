@@ -24,4 +24,4 @@ permalink: /faq
 
 ---
 
-## FAQ
+## A Topic
