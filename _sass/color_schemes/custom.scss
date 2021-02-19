@@ -2,9 +2,9 @@ $black: #000;
 
 $body-background-color: #252530;
 $sidebar-color: #252530;
-$search-background-color: #25252c;
-$table-background-color: #25252c;
-$code-background-color: #25252c;
+$search-background-color: darken($body-background-color, 5%);
+$table-background-color: darken($body-background-color, 5%);
+$code-background-color: darken($body-background-color, 5%);
 $feedback-color: darken($sidebar-color, 5%);
 
 $body-text-color: $grey-lt-100;
