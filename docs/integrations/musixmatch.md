@@ -25,7 +25,6 @@ nav_order: 1
   </div>
 </div>
 <br>
-<br>
 <div style="display: inline-flex;">
   <div style="margin: 15px;">
     <u><b>Features</b></u>
