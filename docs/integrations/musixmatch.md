@@ -24,6 +24,7 @@ nav_order: 1
     <a target="_blank" href="https://www.musixmatch.com/">Visit Website</a>
   </div>
 </div>
+<br>
 <div style="display: inline-flex;">
   <div style="margin: 15px;">
     <u><b>Features</b></u>
