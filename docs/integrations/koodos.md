@@ -35,16 +35,19 @@ nav_order: 2
 <br>Example 2: `?sotw`
 <br>Example 3: `?sotm`
 <br>
+<br>
 The responses by the bot give you a command you can use to enque the tracks. Though, the date arument is optional if you plan on playing the current date. However, if you wish to view a past song, past week of songs, or past month of songs, you can always specify a date with the given format below (the "ago" is optional):
 <br>
 <br>Example 1: `?sotd 3 days ago`
 <br>Example 2: `?sotd 2 weeks`
 <br>Example 3: `?sotd 1 m`
 <br>
+<br>
 You can also use any combination of the date format, as long as the order is Year, then Month, then Day:
 <br>
 <br>Example 1: `?sotm YYYY-MM-DD`
 <br>Example 2: `?sotm YY/M/D`
+<br>
 <br>
 You may also notice, that the command to play any of these featured songs, is as simple as adding the enque option you prefer before the command. This is applicable for all forms, and will enque the track(s) with the enque type.
 <br>
@@ -52,8 +55,10 @@ You may also notice, that the command to play any of these featured songs, is as
 <br>Example 2: `?pn sotd 21-1-1`
 <br>Example 3: `?pf sotd 2020/09/30`
 <br>
+<br>
 It's even possible to play the URL as well!
 <br>
 <br>Example 1: `?p https://koodos.com/sotd?date=2020-11-09`
+<br>
 <br>
 To learn more about Koodos, Visit the website located at the top of this section!
