@@ -114,3 +114,10 @@ If someone leaves the channel, their vote gets removed from the active vote to s
 <br>
 <br>
 Theoretically you could, yes. Realistically however, updates, bugs, data-center shutdowns, server hosting changes, API changes, and similar reasons can all cause an interruption in your listening experience. We will always try to keep the bot running, but realistically it’s impossible.
+
+<br>
+<br>
+
+# Couldn't find what you're looking for?
+
+ - Feel free to [contact](https://pulseproject.io/contact) us.
