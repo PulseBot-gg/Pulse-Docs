@@ -194,7 +194,7 @@ permalink: /commands
     </div>
     <div class="option requesting">
       <div class="optiontitle">
-        <b>Enque</b> <a>(Media)</a>
+        <b>Enque</b> <a>&lt;Media&lt;</a>
       </div>
       <div class="optioncontent">
         Enques the searched or linked media at the end of the queue. If no media is specified, the bot will attempt to use the requester's Spotify rich presence. For more info, please read the "Playing Media" section on the <a href="https://pulseproject.io/usage">Usage</a> page.
@@ -205,7 +205,7 @@ permalink: /commands
     </div>
     <div class="option requesting">
       <div class="optiontitle">
-        <b>EnqueFirst</b> <a>(Media)</a>
+        <b>EnqueFirst</b> <a>&lt;Media&lt;</a>
       </div>
       <div class="optioncontent">
         Enques the searched or linked media at the start of the queue. If no media is specified, the bot will attempt to use the requester's Spotify rich presence. For more info, please read the "Playing Media" section on the <a href="https://pulseproject.io/usage">Usage</a> page.
@@ -216,7 +216,7 @@ permalink: /commands
     </div>
     <div class="option requesting">
       <div class="optiontitle">
-        <b>EnqueNow</b> <a>(Media)</a>
+        <b>EnqueNow</b> <a>&lt;Media&lt;</a>
       </div>
       <div class="optioncontent">
         Enques the searched or linked media immediately, and adds any additional items at the start of the queue. If no media is specified, the bot will attempt to use the requester's Spotify rich presence. For more info, please read the "Playing Media" section on the <a href="https://pulseproject.io/usage">Usage</a> page.
@@ -257,7 +257,7 @@ permalink: /commands
         Stops currently playing media, and clears the previous and future queues.
         <br>
         <br><d>This command can be DJ restricted.</d>
-        <br>Aliases: <a>Stp, St</a>
+        <br>Aliases: <a>Stp</a>
       </div>
     </div>
     <div class="option player">
@@ -335,6 +335,16 @@ permalink: /commands
         <br>
         <br><d>This command can be DJ restricted.</d>
         <br>Aliases: <a>ForceNext, Fs, Fn</a>
+      </div>
+    </div>
+    <div class="option queue">
+      <div class="optiontitle">
+        <b>SkipTo</b> <a>&lt;Position In Queue&lt;</a>
+      </div>
+      <div class="optioncontent">
+        Skips to a position in the queue.
+        <br>
+        <br>Aliases: <a>GoTo, St, Gt</a>
       </div>
     </div>
     <div class="option queue">
