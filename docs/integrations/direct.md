@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GetYarn
+title: Direct Media
 parent: Integrations
 nav_order: 13
 ---
@@ -13,7 +13,7 @@ nav_order: 13
 
 ---
 
-# GetYarn
+# Direct Media
 {: .no_toc }
 
 <div style="display: inline-flex;align-items: center;justify-content: center;">
