@@ -403,7 +403,7 @@ permalink: /commands
     </div>
     <div class="option queue">
       <div class="optiontitle">
-        <b>Move</b> <a>&lt;Item#&gt; &lt;Position#&gt;</a>
+        <b>Move</b> <a>&lt;Item# Or Range (Exampe: `1-2`, No spaces)&gt; &lt;Position#&gt;</a>
       </div>
       <div class="optioncontent">
         Moves an item in the future queue from one position to another.
@@ -414,7 +414,7 @@ permalink: /commands
     </div>
     <div class="option queue">
       <div class="optiontitle">
-        <b>Remove</b> <a>&lt;Item#&gt;</a>
+        <b>Remove</b> <a>&lt;Item# Or Range (Exampe: `1-2`, No spaces)&gt;</a>
       </div>
       <div class="optioncontent">
         Removes an item from the future queue.
