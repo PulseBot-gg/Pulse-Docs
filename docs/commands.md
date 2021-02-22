@@ -381,7 +381,7 @@ permalink: /commands
     </div>
     <div class="option queue">
       <div class="optiontitle">
-        <b>Repeat</b> <a?("queue", "track", "off")</a>
+        <b>Repeat</b> <a>("queue", "track", "off")</a>
       </div>
       <div class="optioncontent">
         Toggles repeating of tracks from Off->Track->Queue->Off respectively repeating.
