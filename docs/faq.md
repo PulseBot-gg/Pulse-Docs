@@ -53,11 +53,14 @@ permalink: /faq
 
 ## What permissions does Pulse use, and why?
 
- - <u><b>Read Messages</b></u> -> To receive commands in a text channel.
+These are the bare-minimum permissions Pulse requires to operate normally. If you are experiencing problems with pulse, or are unsure if your server/channels are configured correctly, its suggested that you use the [administrator invite](https://pulseproject.io/invite) for Pulse. Pulse needs to be disconnected from your server before using the administrator invite for the changes to take affect.
+
+ - <u><b>Read Messages/View Channels</b></u> -> To receive commands in a text channel.
  - <u><b>Send messages</b></u> -> To send messages.
  - <u><b>Manage Messages</b></u> -> Embed suppression, user-command management.
  - <u><b>Embed Links</b></u> -> Formatted embed messages.
  - <u><b>Read Message History</b></u> -> Required for ❌ self-message deletions to work.
+ - <u><b>Add Reactions</b></u> -> Required for ❌ self-message deletions to work.
  - <u><b>Connect</b></u> -> To connect to the voice channel.
  - <u><b>Speak</b></u> -> To play music in the channels.
 
