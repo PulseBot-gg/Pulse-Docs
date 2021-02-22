@@ -81,6 +81,16 @@ permalink: /commands
     </div>
     <div class="option other">
       <div class="optiontitle">
+        <b>Save</b>
+      </div>
+      <div class="optioncontent">
+        Private messages you the details of the current song, including the timestamp at which you requested it at.
+        <br>
+        <br>Aliases: <a>Grab, Get</a>
+      </div>
+    </div>
+    <div class="option other">
+      <div class="optiontitle">
         <b>Sotd (Date)</b>
       </div>
       <div class="optioncontent">
@@ -370,13 +380,16 @@ permalink: /commands
     </div>
     <div class="option queue">
       <div class="optiontitle">
-        <b>Repeat</b>
+        <b>Repeat ("queue", "track", "off")</b>
       </div>
       <div class="optioncontent">
         Toggles repeating of tracks from Off->Track->Queue->Off respectively repeating.
         <br>
         <br><d>This command can be DJ restricted.</d>
         <br>Aliases: <a>Loop, L</a>
+        <br>Queue Argument Aliases: <a>Playlist, List, Que, Q</a>
+        <br>Track Argument Aliases: <a>Song, S, T</a>
+        <br>Off Argument Aliases: <a>Stop, O</a>
       </div>
     </div>
     <div class="option queue">
