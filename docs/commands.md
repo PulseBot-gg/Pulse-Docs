@@ -354,6 +354,7 @@ permalink: /commands
       <div class="optioncontent">
         Skips to a position in the queue.
         <br>
+        <br><d>This command can be DJ restricted.</d>
         <br>Aliases: <a>GoTo, St, Gt</a>
       </div>
     </div>
