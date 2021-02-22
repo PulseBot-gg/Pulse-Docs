@@ -55,9 +55,9 @@ permalink: /faq
 
  - <u><b>Read Messages</b></u> -> To receive commands in a text channel.
  - <u><b>Send messages</b></u> -> To send messages.
- - <u><b>Manage Messages</b></u> -> Embed suppression and user-command management.
+ - <u><b>Manage Messages</b></u> -> Embed suppression, user-command management.
  - <u><b>Embed Links</b></u> -> Formatted embed messages.
- - <u><b>Read Message History</b></u> -> Message management.
+ - <u><b>Read Message History</b></u> -> Required for ❌ self-message deletions to work.
  - <u><b>Connect</b></u> -> To connect to the voice channel.
  - <u><b>Speak</b></u> -> To play music in the channels.
 
