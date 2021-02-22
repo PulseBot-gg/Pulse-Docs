@@ -40,6 +40,6 @@ nav_order: 13
 </div>
 
 <u><b>Description</b></u>
-<br>To play any of the supported media types, just copy the URL or share link URL of the media, and use it with any of the enque commands.
+<br>To play any of the supported media types, just upload the file with the enque command as the file comment, or copy the URL or share link URL of the media and use it with any of the enque commands.
 <br>
 <br>Example 1: `?play https://example.com/example.mp3`
