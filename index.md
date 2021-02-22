@@ -83,4 +83,6 @@ Getting Pulse to play you audio is as simple as running the enque command, follo
 
 <u><b>Final Notes</b></u>
 
+At any time, you can delete **ANY** of **Pulse's** messages, simply by reacting to it with the red cross mark emoji (❌), regardless if the message comes with the reaction or not. This has been implemented in case you want to delete a private message from Pulse, or if Pulse sends a message you don't want others to see.
+
 The [commands](https://docs.pulseproject.io/commands) page lists all availible commands and their usages if you ever need them. Additionally, you can check out the [integrations](https://docs.pulseproject.io/integrations) page to view more on what media sources are supported, what media types are supported for each integration, and how to use the integration. If you have a question, be sure to visit the [faq](https://docs.pulseproject.io/faq), or [contact](https://pulseproject.io/contact) us.
