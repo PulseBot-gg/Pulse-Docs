@@ -349,7 +349,7 @@ permalink: /commands
     </div>
     <div class="option queue">
       <div class="optiontitle">
-        <b>SkipTo</b> <a>&lt;Position In Queue&lt;</a>
+        <b>SkipTo</b> <a>&lt;Position In Queue&gt;</a>
       </div>
       <div class="optioncontent">
         Skips to a position in the queue.
@@ -380,7 +380,7 @@ permalink: /commands
     </div>
     <div class="option queue">
       <div class="optiontitle">
-        <b>Repeat ("queue", "track", "off")</b>
+        <b>Repeat</b> <a?("queue", "track", "off")</a>
       </div>
       <div class="optioncontent">
         Toggles repeating of tracks from Off->Track->Queue->Off respectively repeating.
