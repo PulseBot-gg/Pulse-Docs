@@ -53,7 +53,7 @@ permalink: /faq
 
 ## What permissions does Pulse use, and why?
 
-These are the bare-minimum permissions Pulse requires to operate normally. If you are experiencing problems with pulse, or are unsure if your server/channels are configured correctly, its suggested that you use the [administrator invite](https://pulseproject.io/invite) for Pulse. Pulse needs to be disconnected from your server before using the administrator invite for the changes to take affect.
+These are the bare-minimum permissions Pulse requires to operate normally. If you are experiencing problems with pulse, or are unsure if your server/channels are configured correctly, its suggested that you use the [administrator invite](https://pulseproject.io/invite) for Pulse. Pulse has a built-in text-channel-locking coniguration that you can set up to restrict access. Please note that Pulse needs to be disconnected from your server before using the administrator invite for the changes to take affect.
 
  - <u><b>Read Messages/View Channels</b></u> -> To receive commands in a text channel.
  - <u><b>Send messages</b></u> -> To send messages.
