@@ -79,7 +79,7 @@ When the DJ role restriction is enabled, the bot will limit experience-altering 
 
 <u><b>Playing Media</b></u>
 
-Getting Pulse to play you audio is as simple as running the enque command, and attaching a media file, or a URL or search request!
+Getting Pulse to play you audio is as simple as running the enque command, and attaching a media file, or entering a URL or search request!
 
 <u><b>Final Notes</b></u>
 
