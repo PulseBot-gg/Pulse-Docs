@@ -124,7 +124,7 @@ permalink: /commands
         <b>Play</b> <a>(Media)</a>
       </div>
       <div class="optioncontent">
-        As a wrapper command, this command acts as an alias to the commands listed below, and determines which command to execute based off of arguments provided, and the bot's current activity. For more info on playing media, please read the "Playing Media" section on the <a href="https://pulseproject.io/usage">Usage</a> page.
+        As a wrapper command, this command acts as an alias to the commands listed below, and determines which command to execute based off of arguments provided, and the bot's current activity. For more info on playing media, please read the "Playing Media" section on the <a href="https://docs.pulseproject.io/#getting-started">About</a> page.
         <br>
         <br>Executes: <a>Resume, Enque</a>
       </div>
@@ -134,7 +134,7 @@ permalink: /commands
         <b>P</b> <a>(Media)</a>
       </div>
       <div class="optioncontent">
-        As a wrapper command, this command acts as an alias to the commands listed below, and determines which command to execute based off of arguments provided, and the bot's current activity. For more info, please read the "Playing Media" section on the <a href="https://pulseproject.io/usage">Usage</a> page.
+        As a wrapper command, this command acts as an alias to the commands listed below, and determines which command to execute based off of arguments provided, and the bot's current activity. For more info, please read the "Playing Media" section on the <a href="https://docs.pulseproject.io/#getting-started">About</a> page.
         <br>
         <br>Executes: <a>Pause, Resume, Enque</a>
       </div>
@@ -144,7 +144,7 @@ permalink: /commands
         <b>Que</b> <a>(Media or Page#)</a>
       </div>
       <div class="optioncontent">
-        As a wrapper command, this command acts as an alias to the commands listed below, and determines which command to execute based off of arguments provided, and the bot's current activity. For more info, please read the "Playing Media" section on the <a href="https://pulseproject.io/usage">Usage</a> page.
+        As a wrapper command, this command acts as an alias to the commands listed below, and determines which command to execute based off of arguments provided, and the bot's current activity. For more info, please read the "Playing Media" section on the <a href="https://docs.pulseproject.io/#getting-started">About</a> page.
         <br>
         <br>Aliases: <a>Q</a>
         <br>Executes: <a>Queue, Enque</a>
@@ -207,7 +207,7 @@ permalink: /commands
         <b>Enque</b> <a>&lt;Media&lt;</a>
       </div>
       <div class="optioncontent">
-        Enques the searched or linked media at the end of the queue. If no media is specified, the bot will attempt to use the requester's Spotify rich presence. For more info, please read the "Playing Media" section on the <a href="https://pulseproject.io/usage">Usage</a> page.
+        Enques the searched or linked media at the end of the queue. If no media is specified, the bot will attempt to use the requester's Spotify rich presence. For more info, please read the "Playing Media" section on the <a href="https://docs.pulseproject.io/#getting-started">About</a> page.
         <br>
         <br>Aliases: <a>Enque, En, Eq</a>
         <br>Applicable Wrapper Commands: <a>Play, P, Que, Q</a>
@@ -218,7 +218,7 @@ permalink: /commands
         <b>EnqueFirst</b> <a>&lt;Media&lt;</a>
       </div>
       <div class="optioncontent">
-        Enques the searched or linked media at the start of the queue. If no media is specified, the bot will attempt to use the requester's Spotify rich presence. For more info, please read the "Playing Media" section on the <a href="https://pulseproject.io/usage">Usage</a> page.
+        Enques the searched or linked media at the start of the queue. If no media is specified, the bot will attempt to use the requester's Spotify rich presence. For more info, please read the "Playing Media" section on the <a href="https://docs.pulseproject.io/#getting-started">About</a> page.
         <br>
         <br><d>This command can be DJ restricted.</d>
         <br>Aliases: <a>EnqueFirst, Enf, Eqf, Pf</a>
@@ -229,7 +229,7 @@ permalink: /commands
         <b>EnqueNow</b> <a>&lt;Media&lt;</a>
       </div>
       <div class="optioncontent">
-        Enques the searched or linked media immediately, and adds any additional items at the start of the queue. If no media is specified, the bot will attempt to use the requester's Spotify rich presence. For more info, please read the "Playing Media" section on the <a href="https://pulseproject.io/usage">Usage</a> page.
+        Enques the searched or linked media immediately, and adds any additional items at the start of the queue. If no media is specified, the bot will attempt to use the requester's Spotify rich presence. For more info, please read the "Playing Media" section on the <a href="https://docs.pulseproject.io/#getting-started">About</a> page.
         <br>
         <br><d>This command can be DJ restricted.</d>
         <br>Aliases: <a>EnqueNow, Enn, Eqn, Pn</a>
