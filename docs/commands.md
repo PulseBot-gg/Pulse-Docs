@@ -204,7 +204,7 @@ permalink: /commands
     </div>
     <div class="option requesting">
       <div class="optiontitle">
-        <b>Enque</b> <a>&lt;Media&lt;</a>
+        <b>Enque</b> <a>&lt;Media&gt;</a>
       </div>
       <div class="optioncontent">
         Enques the searched or linked media at the end of the queue. If no media is specified, the bot will attempt to use the requester's Spotify rich presence. For more info, please read the "Playing Media" section on the <a href="https://docs.pulseproject.io/#getting-started">About</a> page.
@@ -215,7 +215,7 @@ permalink: /commands
     </div>
     <div class="option requesting">
       <div class="optiontitle">
-        <b>EnqueFirst</b> <a>&lt;Media&lt;</a>
+        <b>EnqueFirst</b> <a>&lt;Media&gt;</a>
       </div>
       <div class="optioncontent">
         Enques the searched or linked media at the start of the queue. If no media is specified, the bot will attempt to use the requester's Spotify rich presence. For more info, please read the "Playing Media" section on the <a href="https://docs.pulseproject.io/#getting-started">About</a> page.
@@ -226,7 +226,7 @@ permalink: /commands
     </div>
     <div class="option requesting">
       <div class="optiontitle">
-        <b>EnqueNow</b> <a>&lt;Media&lt;</a>
+        <b>EnqueNow</b> <a>&lt;Media&gt;</a>
       </div>
       <div class="optioncontent">
         Enques the searched or linked media immediately, and adds any additional items at the start of the queue. If no media is specified, the bot will attempt to use the requester's Spotify rich presence. For more info, please read the "Playing Media" section on the <a href="https://docs.pulseproject.io/#getting-started">About</a> page.
