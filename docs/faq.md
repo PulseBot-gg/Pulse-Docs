@@ -121,6 +121,15 @@ Theoretically you could, yes. Realistically however, updates, bugs, data-center 
 <br>
 <br>
 
+## I'm setting the bot's command prefix, but it isn't working!
+
+ - Try a different command!
+<br>
+<br>
+The configuration command's prefix is the only command where the prefix won't change (besides the help command, the prefix for help is both the default prefix, and custom prefix). This was done for scenarios where one Pulse prefix is set to another Pulse bot's prefix, resulting in both bots being locked together. This will ruin the user experience, especially when trying to reset one bot's prefix, but instead will set both, in addition to other commands.
+
+<br>
+
 # Couldn't find what you're looking for?
 
  - Feel free to [contact](https://pulseproject.io/contact) us.
