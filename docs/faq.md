@@ -113,10 +113,10 @@ If someone leaves the channel, their vote gets removed from the active vote to s
 
 ## Can Pulse play 24/7?
 
- - Short answer; kind of.
+ - YES!
 <br>
 <br>
-Theoretically you could, yes. Realistically however, updates, bugs, data-center shutdowns, server hosting changes, API changes, and similar reasons can all cause an interruption in your listening experience. We will always try to keep the bot running, but realistically it’s impossible.
+By default this comes disabled in order to save on resources. This means that Pulse will pause when it's alone and after 15 minuites of inactivity, being paused, or being alone, Pulse will automatically disconnect from the server. However, 24/7 can easily be enabled via the config command! This will disable any disconnect timers, and disable Pulse from pausing when it's alone. For more information, run: `?config 247`
 
 <br>
 <br>
