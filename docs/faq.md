@@ -5,11 +5,11 @@ nav_order: 4
 permalink: /faq
 ---
 
-<span class="fs-5">[Docs Home](https://docs.pulseproject.io){: .btn }</span><br><br>
-<span class="fs-4">[Website](https://pulseproject.io){: .btn .btn-outline }</span>
-<span class="fs-4">[Invite](https://pulseproject.io/invite){: .btn .btn-outline }</span>
-<span class="fs-4">[Terms](https://pulseproject.io/terms){: .btn .btn-outline }</span>
-<span class="fs-4">[Privacy](https://pulseproject.io/privacy){: .btn .btn-outline }</span>
+<span class="fs-5">[Docs Home](https://docs.pulsebot.gg){: .btn }</span><br><br>
+<span class="fs-4">[Website](https://pulsebot.gg){: .btn .btn-outline }</span>
+<span class="fs-4">[Invite](https://pulsebot.gg/invite){: .btn .btn-outline }</span>
+<span class="fs-4">[Terms](https://pulsebot.gg/terms){: .btn .btn-outline }</span>
+<span class="fs-4">[Privacy](https://pulsebot.gg/privacy){: .btn .btn-outline }</span>
 
 ---
 
@@ -26,13 +26,13 @@ permalink: /faq
 
 ## What is Pulse?
 
- - Please read [here](https://docs.pulseproject.io/#what-is-pulse).
+ - Please read [here](https://docs.pulsebot.gg/#what-is-pulse).
 
 <br>
 
 ## How can I use Pulse?
 
- - Please read [here](https://docs.pulseproject.io/#adding-pulse).
+ - Please read [here](https://docs.pulsebot.gg/#adding-pulse).
 
 <br>
 
@@ -47,13 +47,13 @@ permalink: /faq
 
 ## How do I use Pulse or it’s features?
 
- - Please read [here](https://docs.pulseproject.io/#adding-pulse).
+ - Please read [here](https://docs.pulsebot.gg/#adding-pulse).
 
 <br>
 
 ## What permissions does Pulse use, and why?
 
-These are the bare-minimum permissions Pulse requires to operate normally. If you are experiencing problems with pulse, or are unsure if your server/channels are configured correctly, its suggested that you use the [administrator invite](https://pulseproject.io/invite) for Pulse. Pulse has a built-in text-channel-locking configuration that you can set up to restrict access. Please note that Pulse needs to be disconnected from your server before using the administrator invite for the changes to take affect.
+These are the bare-minimum permissions Pulse requires to operate normally. If you are experiencing problems with pulse, or are unsure if your server/channels are configured correctly, its suggested that you use the [administrator invite](https://pulsebot.gg/invite) for Pulse. Pulse has a built-in text-channel-locking configuration that you can set up to restrict access. Please note that Pulse needs to be disconnected from your server before using the administrator invite for the changes to take affect.
 
  - <u><b>Read Messages/View Channels</b></u> -> To receive commands in a text channel.
  - <u><b>Send messages</b></u> -> To send messages.
@@ -68,7 +68,7 @@ These are the bare-minimum permissions Pulse requires to operate normally. If yo
 
 ## Why should I donate, and how?
 
- - Since Pulse is a free-to-use bot, donations are not required. That does not mean that the bot is free to host for the creator of the project. Your donation will help keep Pulse alive. If you would like to contribute, you can donate [here](https://pulseproject.io/donate).
+ - Since Pulse is a free-to-use bot, donations are not required. That does not mean that the bot is free to host for the creator of the project. Your donation will help keep Pulse alive. If you would like to contribute, you can donate [here](https://pulsebot.gg/donate).
 
 <br>
 
@@ -132,4 +132,4 @@ The configuration command's prefix is the only command where the prefix won't ch
 
 # Couldn't find what you're looking for?
 
- - Feel free to [contact](https://pulseproject.io/contact) us.
+ - Feel free to [contact](https://pulsebot.gg/contact) us.
