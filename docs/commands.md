@@ -428,10 +428,10 @@ permalink: /commands
     </div>
     <div class="option queue">
       <div class="optiontitle">
-        <b>Remove</b> <a>&lt;Item# Or Range (Exampe: `1-2`, No spaces)&gt;</a>
+        <b>Remove</b> <a>(Item# Or Range (Exampe: `1-2`, No spaces))</a>
       </div>
       <div class="optioncontent">
-        Removes an item from the future queue.
+        Removes an item from the future queue, or the current track if any playing, if no items are provided.
         <br>
         <br><d>This command can be DJ restricted.</d>
         <br>Aliases: <a>Rem, R</a>
