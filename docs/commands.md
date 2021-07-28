@@ -283,10 +283,10 @@ permalink: /commands
     </div>
     <div class="option player">
       <div class="optiontitle">
-        <b>Replay</b>
+        <b>Replay ("track", "queue")</b>
       </div>
       <div class="optioncontent">
-        Restarts the currently playing track.
+        Restarts the currently playing track, or queue.
         <br>
         <br><d>This command can be DJ restricted.</d>
         <br>Aliases: <a>Restart, Re</a>
